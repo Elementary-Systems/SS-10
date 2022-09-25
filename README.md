@@ -1,2 +1,2 @@
-# SS-12
- This is an official repository for SS-12 motor Series
+# SS-10
+ This is an official repository for SS-10 motor Series
